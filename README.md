@@ -12,9 +12,11 @@ Analytics engineer working with education data in Brazil. Math teacher for 18 ye
 
 #### 🧰 Stack
 
-**Data:** SQL · PostgreSQL · dbt · Python · dimensional modelling (Kimball)
-**BI:** Power BI · Metabase · Apache Superset
-**Ops:** Docker · Linux · GitHub Actions · n8n
+- **Data:** SQL · PostgreSQL · dbt · Python · dimensional modelling (Kimball)
+- **BI:** Power BI · Metabase · Apache Superset
+- **Infra:** Linux servers · Docker · Oracle Cloud (OCI) · Hetzner · GitHub Actions
+- **AI & automation:** LLM pipelines for classification and structured extraction · n8n · AI pair programming (Claude)
+- **Web & product:** WordPress · PHP · MySQL · Stripe · GA4 · Google Ads
 
 #### 📚 Currently learning
 
@@ -26,4 +28,4 @@ PySpark (student-level SAEB microdata) · Apache Superset dashboards · populati
 
 ---
 
-🇧🇷 Analytics engineer trabalhando com dados de educação. Professor de matemática da rede pública há 18 anos; criei e coordeno os dados do Observatório da Educação Inclusiva e Integral da SEEDF e fundei a Azup, plataforma de aprendizagem gamificada. Por conta própria, construo o **azupdados**, um data warehouse aberto da educação básica brasileira.
+**Em português:** analytics engineer trabalhando com dados de educação. Professor de matemática da rede pública há 18 anos; criei e coordeno os dados do Observatório da Educação Inclusiva e Integral da SEEDF e fundei a Azup, plataforma de aprendizagem gamificada. Por conta própria, construo o **azupdados**, um data warehouse aberto da educação básica brasileira.
